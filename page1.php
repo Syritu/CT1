@@ -24,3 +24,5 @@
 
 	echo "<p><a href=create_input.php>CREATE a new record</a>";
 ?>
+
+hello mithu
